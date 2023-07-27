@@ -3,15 +3,23 @@ A Weather Web Application that utilizes the OpenWeatherMap's API to return curre
 
 Simple web application written with
 
-Javascript
-HTML5
-CSS3
+  1.Javascript
+  
+  2.HTML5
+  
+  3.CSS3
+  
 that returns the current weather of any city on earth. The app utilizes OpenWeatherMap's API.
 
 Following weather information is obtained for a specific city/location.
 
-Temperature (in Celsius)
-Weather-description
-Humidity (in %)
-Wind-Speed (in km/h)
+
+    1.Temperature (in Celsius)
+    
+    2.Weather-description
+    
+    3.Humidity (in %)
+    
+    4.Wind-Speed (in km/h)
+    
 This app is live hosted here: AccuWeather.
